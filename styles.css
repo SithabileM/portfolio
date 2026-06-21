@@ -25,7 +25,7 @@ html {
 }
 
 #head{
-  background: linear-gradient(90deg,blue, indigo, violet);
+  background: var(--lightest-slate);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-weight: bold;
